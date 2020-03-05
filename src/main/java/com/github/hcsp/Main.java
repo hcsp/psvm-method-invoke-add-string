@@ -5,11 +5,7 @@ public class Main {
         System.out.println("aaa+bbb=" + add("aaa", "bbb"));
         System.out.println("cat+dog=" + add("cat", "dog"));
     }
-
-    private static String add(String aaa, String bbb) {
-        // Create an add(String a, String b) method to concatenate two strings
-        // 在这里编写一个add(String a, String b)方法进行字符串连接
-        return aaa+bbb;
-    }
+    // Create an add(String a, String b) method to concatenate two strings
+    // 在这里编写一个add(String a, String b)方法进行字符串连接
 
 }
