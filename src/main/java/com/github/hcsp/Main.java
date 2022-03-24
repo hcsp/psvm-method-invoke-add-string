@@ -9,6 +9,7 @@ public class Main {
     // 在这里编写一个add(String a, String b)方法进行字符串连接
     public static String add(String a, String b) {
         String c = a + b;
+
         return c;
     }
 
